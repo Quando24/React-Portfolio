@@ -1,0 +1,25 @@
+.App {
+
+}
+
+* {
+  font-family: 'Karantina', cursive;
+font-family: 'Source Sans Pro', sans-serif; 
+  font-size: large; 
+}
+#link2 {
+  color: white;
+} 
+
+#link3 {
+  color: white;
+} 
+
+#link4 {
+  color: white;
+} 
+
+#myname {
+  margin-left: 550px; 
+  color: white; 
+} 
