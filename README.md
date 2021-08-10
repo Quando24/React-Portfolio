@@ -1,5 +1,4 @@
 # React-Portfolio 
-# Budget-Tracker 
 ## Description
 This portfolio page is my updated professional porfolio, that is now using ReactJS. This assignment used the "create-react-app" for the starter folders that were needed.  My portfolio showcases my favorite assignments that I have completed throughout the course. This app is deployed to GitHub pages as well!
 ## Table of Contents 
