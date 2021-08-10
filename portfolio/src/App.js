@@ -5,6 +5,7 @@ import Navigation from './components/nav.js'
 import Portfolio from './components/portfolio.js'
 import Resume from './components/resume.js'
 import ContactMe from './components/contactMe.js'
+import Footer from './components/footer.js'
 
 import './App.css';
 
@@ -25,6 +26,8 @@ function App() {
       {visibleSection === 1 && <Portfolio />}
       {visibleSection === 2 && <Resume />}
       {visibleSection === 3 && <ContactMe />}
+
+      <Footer />
     </div>
   );
 }
