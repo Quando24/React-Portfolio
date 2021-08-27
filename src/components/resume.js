@@ -10,7 +10,7 @@ const Resume = () => {
             <Row>
                 <Col>
                 <div className="d-flex justify-content-center">
-            <a className="" href="assets/Resume 2.0.pdf" download="newfilename"
+            <a className="" href="assets/Resume 2.pdf" download="newfilename"
     id="link3">
             <Button variant={"info"}>Resume</Button>
             </a>
